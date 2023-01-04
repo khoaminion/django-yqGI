@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'dashboard',
     'whitenoise.runserver_nostatic',
-]
+] 
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
